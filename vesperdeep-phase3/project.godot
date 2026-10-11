@@ -1,0 +1,32 @@
+config_version=5
+
+[application]
+config/name="Vesperdeep — Phase 3"
+run/main_scene="res://scenes/main.tscn"
+config/features=PackedStringArray("4.4", "GL Compatibility")
+
+[autoload]
+Controls="*res://scripts/controls.gd"
+RunState="*res://scripts/run_state.gd"
+
+[display]
+window/size/viewport_width=960
+window/size/viewport_height=540
+window/stretch/mode="canvas_items"
+
+[physics]
+common/physics_ticks_per_second=60
+2d/default_gravity=980.0
+
+[layer_names]
+2d_physics/layer_1="World"
+2d_physics/layer_2="Player"
+2d_physics/layer_3="Enemy"
+2d_physics/layer_4="PlayerAttack"
+2d_physics/layer_5="EnemyAttack"
+2d_physics/layer_6="Trigger"
+
+[rendering]
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
+textures/default_filters/use_nearest_mipmap_filter=false
