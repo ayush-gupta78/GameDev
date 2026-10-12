@@ -1,0 +1,20 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+VESPERDEEP_PHASE4_READY
+PASS fresh run enters M1
+PASS M1 exit presents first narrative beat
+PASS starting movement and jump cross M1 to M2
+PASS M2 shrine activates before first boss
+PASS Edda/Pip cannot be bypassed
+PASS completed dialogue opens the M3 route
+PASS M3 combines two Drudges with one Moth
+PASS M3 remains gated until the visible Toll latch is used
+PASS player operates M3 Toll latch
+PASS M3 platforms and enemies do not block the mandatory route
+PASS approach latch and retry shrine persist
+PASS boss encounter locks after approach
+PASS ten accepted strikes defeat Warden and award dash
+PASS victory triggers story and freezes traversal until read
+PASS physical jump plus Echo Step reaches C1 exit shrine
+PASS C1 arrival reveals Bell Engine objective
+SHORE_ROUTE_RESULT 16 passed, 0 failed

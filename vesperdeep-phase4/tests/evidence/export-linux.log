@@ -1,0 +1,163 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+[   0% ] [90m[1mfirst_scan_filesystem[22m | Started Project initialization (5 steps)[39m[0m
+[   0% ] [90m[1mfirst_scan_filesystem[22m | Scanning file structure...[39m[0m
+[  16% ] [90m[1mfirst_scan_filesystem[22m | Loading global class names...[39m[0m
+[  33% ] [90m[1mfirst_scan_filesystem[22m | Verifying GDExtensions...[39m[0m
+[  50% ] [90m[1mfirst_scan_filesystem[22m | Creating autoload scripts...[39m[0m
+[  66% ] [90m[1mfirst_scan_filesystem[22m | Initializing plugins...[39m[0m
+[  83% ] [90m[1mfirst_scan_filesystem[22m | Starting file scan...[39m[0m
+[92m[ DONE ][39m [1mfirst_scan_filesystem[22m
+[0m
+WARNING: UID duplicate detected between res://tests/evidence/phase4-original-226/frames/c1-shrine.png and res://tests/evidence/frames/c1-shrine.png.
+     at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://tests/evidence/phase4-original-226/frames/c2-projectile.png and res://tests/evidence/frames/c2-projectile.png.
+     at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://tests/evidence/phase4-original-226/frames/c2-warning.png and res://tests/evidence/frames/c2-warning.png.
+     at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://tests/evidence/phase4-original-226/frames/double-jump-wings.png and res://tests/evidence/frames/double-jump-wings.png.
+     at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://tests/evidence/phase4-original-226/frames/g2-dialogue.png and res://tests/evidence/frames/g2-dialogue.png.
+     at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://tests/evidence/phase4-original-226/frames/g2-warning.png and res://tests/evidence/frames/g2-warning.png.
+     at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://tests/evidence/phase4-original-226/frames/m1-player.png and res://tests/evidence/frames/m1-player.png.
+     at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://tests/evidence/phase4-original-226/frames/m4-enclosed-arena.png and res://tests/evidence/frames/m4-enclosed-arena.png.
+     at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+WARNING: UID duplicate detected between res://tests/evidence/phase4-original-226/frames/m4-post-victory.png and res://tests/evidence/frames/m4-post-victory.png.
+     at: _process_file_system (editor/file_system/editor_file_system.cpp:1405)
+[   0% ] [90m[1msavepack[22m | Started Packing (102 steps)[39m[0m
+[   1% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-3ad5c15c4f3250da0cc7c1af1770d85f-main.scn[39m[0m
+[   2% ] [90m[1msavepack[22m | Storing File: res://scripts/controls.gdc[39m[0m
+[   4% ] [90m[1msavepack[22m | Storing File: res://scripts/enemy.gdc[39m[0m
+[   5% ] [90m[1msavepack[22m | Storing File: res://scripts/enemy_profile.gdc[39m[0m
+[   7% ] [90m[1msavepack[22m | Storing File: res://scripts/main.gdc[39m[0m
+[   8% ] [90m[1msavepack[22m | Storing File: res://scripts/miniboss_prototype.gdc[39m[0m
+[  10% ] [90m[1msavepack[22m | Storing File: res://scripts/player.gdc[39m[0m
+[  11% ] [90m[1msavepack[22m | Storing File: res://scripts/player_combat.gdc[39m[0m
+[  13% ] [90m[1msavepack[22m | Storing File: res://scripts/player_tuning.gdc[39m[0m
+[  14% ] [90m[1msavepack[22m | Storing File: res://scripts/run_state.gdc[39m[0m
+[  16% ] [90m[1msavepack[22m | Storing File: res://scripts/shore_target.gdc[39m[0m
+[  17% ] [90m[1msavepack[22m | Storing File: res://scripts/test_room.gdc[39m[0m
+[  19% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/c1-shrine.png-73c7920ef6d9244e810131d9da3de88d.ctex[39m[0m
+[  19% ] [90m[1msavepack[22m | Storing File: res://tests/evidence/frames/c1-shrine.png.import[39m[0m
+[  20% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/c2-projectile.png-0f4d4be4f5df8c499f23c967cbc71faf.ctex[39m[0m
+[  20% ] [90m[1msavepack[22m | Storing File: res://tests/evidence/frames/c2-projectile.png.import[39m[0m
+[  22% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/c2-warning.png-6341d22069a8d69599811dddfbe0a72a.ctex[39m[0m
+[  22% ] [90m[1msavepack[22m | Storing File: res://tests/evidence/frames/c2-warning.png.import[39m[0m
+[  23% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/double-jump-wings.png-8b2443ce63593ce43169fc5ae6f178ac.ctex[39m[0m
+[  23% ] [90m[1msavepack[22m | Storing File: res://tests/evidence/frames/double-jump-wings.png.import[39m[0m
+[  25% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/g2-dialogue.png-075528f31bc434883816c7152bb03c7a.ctex[39m[0m
+[  25% ] [90m[1msavepack[22m | Storing File: res://tests/evidence/frames/g2-dialogue.png.import[39m[0m
+[  26% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/g2-warning.png-699d43bbf0d66973c84288693aca9a76.ctex[39m[0m
+[  26% ] [90m[1msavepack[22m | Storing File: res://tests/evidence/frames/g2-warning.png.import[39m[0m
+[  28% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/m1-player.png-6da1499b8a3d568a6010a9cf753752e1.ctex[39m[0m
+[  28% ] [90m[1msavepack[22m | Storing File: res://tests/evidence/frames/m1-player.png.import[39m[0m
+[  29% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/m3-latch.png-d4859da9e7e697a028514cb84ce71ff5.ctex[39m[0m
+[  29% ] [90m[1msavepack[22m | Storing File: res://tests/evidence/frames/m3-latch.png.import[39m[0m
+[  31% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/m4-enclosed-arena.png-638c1b5d86f896a0c551701d4a840b48.ctex[39m[0m
+[  31% ] [90m[1msavepack[22m | Storing File: res://tests/evidence/frames/m4-enclosed-arena.png.import[39m[0m
+[  32% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/m4-post-victory.png-7b35fa62fae43ea7e5bcb0d81f13087e.ctex[39m[0m
+[  32% ] [90m[1msavepack[22m | Storing File: res://tests/evidence/frames/m4-post-victory.png.import[39m[0m
+[  33% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/c1-shrine.png-bd3a95738426ae6d1cfbb35ca8935e86.ctex[39m[0m
+[  33% ] [90m[1msavepack[22m | Storing File: res://tests/evidence/phase4-original-226/frames/c1-shrine.png.import[39m[0m
+[  34% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/c2-projectile.png-ade338e37a098adcee492e025c36ce7b.ctex[39m[0m
+[  34% ] [90m[1msavepack[22m | Storing File: res://tests/evidence/phase4-original-226/frames/c2-projectile.png.import[39m[0m
+[  36% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/c2-warning.png-2fc4dd6904a26e0c6f167371072c1825.ctex[39m[0m
+[  36% ] [90m[1msavepack[22m | Storing File: res://tests/evidence/phase4-original-226/frames/c2-warning.png.import[39m[0m
+[  37% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/double-jump-wings.png-e518b22cf40374dbeddb472ef667e3c6.ctex[39m[0m
+[  37% ] [90m[1msavepack[22m | Storing File: res://tests/evidence/phase4-original-226/frames/double-jump-wings.png.import[39m[0m
+[  39% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/g2-dialogue.png-fcdc3efce09b284a611b492de232d1a1.ctex[39m[0m
+[  39% ] [90m[1msavepack[22m | Storing File: res://tests/evidence/phase4-original-226/frames/g2-dialogue.png.import[39m[0m
+[  40% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/g2-warning.png-8535f5b6ad3c1f3d66143dda6643bba5.ctex[39m[0m
+[  40% ] [90m[1msavepack[22m | Storing File: res://tests/evidence/phase4-original-226/frames/g2-warning.png.import[39m[0m
+[  42% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/m1-player.png-546e98def3c941399455ad8bf6799011.ctex[39m[0m
+[  42% ] [90m[1msavepack[22m | Storing File: res://tests/evidence/phase4-original-226/frames/m1-player.png.import[39m[0m
+[  43% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/m3-latch.png-dae8a38f2829aa9427fc7c1e7cd260f1.ctex[39m[0m
+[  43% ] [90m[1msavepack[22m | Storing File: res://tests/evidence/phase4-original-226/frames/m3-latch.png.import[39m[0m
+[  45% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/m4-enclosed-arena.png-dee75bd64d69e2bc010128b7e4c5d2c4.ctex[39m[0m
+[  45% ] [90m[1msavepack[22m | Storing File: res://tests/evidence/phase4-original-226/frames/m4-enclosed-arena.png.import[39m[0m
+[  46% ] [90m[1msavepack[22m | Storing File: res://.godot/imported/m4-post-victory.png-84ef8dfba102e82dadb5c16b807270d6.ctex[39m[0m
+[  46% ] [90m[1msavepack[22m | Storing File: res://tests/evidence/phase4-original-226/frames/m4-post-victory.png.import[39m[0m
+[  48% ] [90m[1msavepack[22m | Storing File: res://tests/evidence/phase4-original-226/execution-summary.json[39m[0m
+[  50% ] [90m[1msavepack[22m | Storing File: res://tests/evidence/phase4-original-226/file-manifest.json[39m[0m
+[  51% ] [90m[1msavepack[22m | Storing File: res://tests/evidence/execution-summary.json[39m[0m
+[  53% ] [90m[1msavepack[22m | Storing File: res://tests/evidence/file-manifest.json[39m[0m
+[  54% ] [90m[1msavepack[22m | Storing File: res://tests/boss_arena_checks.gdc[39m[0m
+[  56% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-35b65f7994df5cd65a9389a17bafb09b-boss_arena_checks.scn[39m[0m
+[  57% ] [90m[1msavepack[22m | Storing File: res://tests/contact_recoil_checks.gdc[39m[0m
+[  59% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-a89bb23a74cb2d5daeab40d903de881b-contact_recoil_checks.scn[39m[0m
+[  60% ] [90m[1msavepack[22m | Storing File: res://tests/double_jump_checks.gdc[39m[0m
+[  62% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-76e1c6573c2d0ef91821fb0ccada8277-double_jump_checks.scn[39m[0m
+[  63% ] [90m[1msavepack[22m | Storing File: res://tests/ground_ai_checks.gdc[39m[0m
+[  65% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-fb59bab7ea2cefeea974eea2b796d856-ground_ai_checks.scn[39m[0m
+[  66% ] [90m[1msavepack[22m | Storing File: res://tests/moth_checks.gdc[39m[0m
+[  67% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-6dfaaebd94080f6eaaec88bcf691d772-moth_checks.scn[39m[0m
+[  68% ] [90m[1msavepack[22m | Storing File: res://tests/new_issues_checks.gdc[39m[0m
+[  70% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-7c57a4883060fc9d0f73ad38ba086ed4-new_issues_checks.scn[39m[0m
+[  71% ] [90m[1msavepack[22m | Storing File: res://tests/physics_checks.gdc[39m[0m
+[  73% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-f62e9f0600559010a73a9970b507e9a0-physics_checks.scn[39m[0m
+[  74% ] [90m[1msavepack[22m | Storing File: res://tests/relaunch_probe.gdc[39m[0m
+[  76% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-a492bf0aa827b5bd80e88eba19dece79-relaunch_probe.scn[39m[0m
+[  77% ] [90m[1msavepack[22m | Storing File: res://tests/review_checks.gdc[39m[0m
+[  79% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-521ff2986c45590267bfc7fef3527176-review_checks.scn[39m[0m
+[  80% ] [90m[1msavepack[22m | Storing File: res://tests/run_checks.gdc[39m[0m
+[  82% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-46580b43d228cdcce1ce3fd518fd10f5-run_checks.scn[39m[0m
+[  83% ] [90m[1msavepack[22m | Storing File: res://tests/shore_encounters_checks.gdc[39m[0m
+[  85% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-7dc673aa5793dddacd4b5f9bdf8efc21-shore_encounters_checks.scn[39m[0m
+[  86% ] [90m[1msavepack[22m | Storing File: res://tests/shore_route_checks.gdc[39m[0m
+[  88% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-ccaa2b8d72b149f7bd80c5ef58492039-shore_route_checks.scn[39m[0m
+[  89% ] [90m[1msavepack[22m | Storing File: res://tests/shore_slice_checks.gdc[39m[0m
+[  91% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-11498d8b965b61f90719aae7e2e08363-shore_slice_checks.scn[39m[0m
+[  92% ] [90m[1msavepack[22m | Storing File: res://tests/visual_checks.gdc[39m[0m
+[  94% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-0ed39ff70ff6460cc46e7df96c304ca0-visual_checks.scn[39m[0m
+[  95% ] [90m[1msavepack[22m | Storing File: res://tests/wall_contact_checks.gdc[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://.godot/exported/133200997/export-8400abed668c1df0ca708fdb2583b8ae-wall_contact_checks.scn[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://scenes/main.tscn.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://scripts/controls.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://scripts/enemy.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://scripts/enemy_profile.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://scripts/main.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://scripts/miniboss_prototype.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://scripts/player.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://scripts/player_combat.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://scripts/player_tuning.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://scripts/run_state.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://scripts/shore_target.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://scripts/test_room.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://tests/boss_arena_checks.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://tests/boss_arena_checks.tscn.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://tests/contact_recoil_checks.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://tests/contact_recoil_checks.tscn.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://tests/double_jump_checks.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://tests/double_jump_checks.tscn.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://tests/ground_ai_checks.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://tests/ground_ai_checks.tscn.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://tests/moth_checks.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://tests/moth_checks.tscn.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://tests/new_issues_checks.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://tests/new_issues_checks.tscn.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://tests/physics_checks.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://tests/physics_checks.tscn.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://tests/relaunch_probe.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://tests/relaunch_probe.tscn.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://tests/review_checks.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://tests/review_checks.tscn.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://tests/run_checks.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://tests/run_checks.tscn.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://tests/shore_encounters_checks.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://tests/shore_encounters_checks.tscn.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://tests/shore_route_checks.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://tests/shore_route_checks.tscn.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://tests/shore_slice_checks.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://tests/shore_slice_checks.tscn.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://tests/visual_checks.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://tests/visual_checks.tscn.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://tests/wall_contact_checks.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://tests/wall_contact_checks.tscn.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://.godot/global_script_class_cache.cfg[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://.godot/uid_cache.bin[39m[0m
+[  97% ] [90m[1msavepack[22m | Storing File: res://project.binary[39m[0m
+[92m[ DONE ][39m [1msavepack[22m
+[0m

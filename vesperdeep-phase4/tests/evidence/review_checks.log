@@ -1,0 +1,41 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+VESPERDEEP_PHASE4_READY
+PASS M3 enemy 0 spawns at designated world point
+PASS M3 enemy 0 has designated home point
+PASS M3 enemy 1 spawns at designated world point
+PASS M3 enemy 1 has designated home point
+PASS M3 enemy 2 spawns at designated world point
+PASS M3 enemy 2 has designated home point
+PASS C2 enemy 0 spawns at designated world point
+PASS C2 enemy 0 has designated home point
+PASS C2 enemy 1 spawns at designated world point
+PASS C2 enemy 1 has designated home point
+PASS G2 enemy 0 spawns at designated world point
+PASS G2 enemy 0 has designated home point
+PASS G2 enemy 1 spawns at designated world point
+PASS G2 enemy 1 has designated home point
+PASS Moth recovery moves toward intended elevated spawn home
+PASS Moth recovery closes distance to stored home
+PASS pause menu freezes SceneTree
+PASS midair pause freezes gravity and movement
+PASS pause freezes player immunity timer
+PASS resuming midair restores player physics
+PASS Needle projectile created before pause
+PASS pause freezes active Echo Step
+PASS pause freezes combat and enemy timers
+PASS pause freezes in-flight projectile and damage
+PASS dash and attack states resume
+PASS projectile tween resumes after pause
+PASS mandatory dialogue freezes world but is not pause menu
+PASS routed Interact event advances dialogue while world is paused
+PASS pause key cannot displace mandatory dialogue
+PASS finishing dialogue releases world and commits flag
+PASS routed Pause event opens menu
+PASS routed fallback Back event exits paused menu
+PASS held Focus active before pause
+PASS pause freezes incomplete Focus without charge loss
+PASS Focus completes after resuming remaining hold
+PASS paused out-of-bounds player does not take hazard damage
+PASS hazard resolves only after unpause
+REVIEW_RESULT 37 passed, 0 failed

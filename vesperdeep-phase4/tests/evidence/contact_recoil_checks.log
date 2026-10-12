@@ -1,0 +1,19 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+VESPERDEEP_PHASE4_READY
+PASS active ground body contact deals one existing one-HP hit
+PASS contact origin sends player and ground enemy in opposite directions
+PASS brief enemy stagger exceeds player recoil time
+PASS second simultaneous enemy cannot restagger an invulnerable player
+PASS ground bodies cannot physically drag player
+PASS ground contact resolves through terrain-aware physics separation
+PASS contact recovery ends without a stun loop
+PASS right-side attacker recoils both bodies outward regardless of player facing
+PASS nonattacking body overlap separates without inventing contact damage
+PASS player weapon hit remains distinct from body-contact recoil
+PASS airborne Moth hit separates without physical attachment
+PASS two nearly simultaneous flyers cannot inflict repeated damage
+PASS Warden contact recoils apart with bounded boss resistance
+PASS boss contact cannot award defeat or progression
+PASS contact does not displace Warden beyond arena
+CONTACT_RECOIL_RESULT 15 passed, 0 failed

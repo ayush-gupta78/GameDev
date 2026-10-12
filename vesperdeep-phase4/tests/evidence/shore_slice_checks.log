@@ -1,0 +1,37 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+PASS Phase 4 user data is isolated from accepted Phase 3
+VESPERDEEP_PHASE4_READY
+PASS M1 has authored jump platforms
+PASS M1 HUD shows current region objective
+PASS M1 has a shallow nonlethal reversible drop
+PASS M1 has a harmless slash target
+PASS training target reacts but cannot farm healing
+PASS M1 listener and arch scene starts at the exit, not on boot
+PASS M1 opening commits only after entire exchange
+PASS M1 one-time scene stays completed on revisit
+PASS M2 introduces Edda and Pip at the passage
+PASS M3 approach latch is visible
+PASS M3 has a dedicated wall-jump side shaft
+PASS actual M3 chimney wall contact supports wall-jump training
+PASS M3's marked shaft supports actual wall sliding
+PASS starting jump reaches M3 middle shelf
+PASS M3 upper shelf reachable without Double Jump
+PASS Rell optional note cannot be read through upper shelf
+PASS upper exploration reveals optional Rell note
+PASS M3 Toll latch requires a deliberate interaction
+PASS interacting with approach latch opens the M4 route
+PASS M4 entrance remains returnable before boss engagement
+PASS Warden starts with non-damaging intro and visible health bar
+PASS Warden half-health shortens recovery, not the warning
+PASS live Warden cycles through all three telegraphed moves
+PASS legitimate Warden defeat triggers one Listener story beat
+PASS interrupted post-boss scene retains reward but not unspoken story
+VESPERDEEP_PHASE4_READY
+PASS unfinished post-boss story replays after relaunch
+PASS narrative completion persists without delaying reward
+PASS completed Shore voice does not replay on return
+PASS one-time Shore events survive independent save reload
+PASS actual C1 ordinary boundary falls naturally without wall stick
+PASS accepted Phase 3 v2 saves migrate to Phase 4 without replaying old scenes
+SHORE_SLICE_RESULT 32 passed, 0 failed

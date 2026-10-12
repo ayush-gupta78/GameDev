@@ -1,0 +1,7 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+PASS ordinary wall contact falls with gravity rather than sliding
+PASS ordinary wall denies wall jump
+PASS marked wall permits slow wall slide
+PASS marked wall permits wall jump and restores air jump
+WALL_CONTACT_RESULT 4 passed, 0 failed

@@ -1,0 +1,152 @@
+{
+  "godot": "4.7.2.stable.official.ed1daf0bf",
+  "results": [
+    {
+      "name": "run_checks",
+      "exit_code": 0,
+      "passes": 64,
+      "failures": 0,
+      "summary": "RESULT 64 passed, 0 failed"
+    },
+    {
+      "name": "physics_checks",
+      "exit_code": 0,
+      "passes": 17,
+      "failures": 0,
+      "summary": "PHYSICS_RESULT 17 passed, 0 failed"
+    },
+    {
+      "name": "review_checks",
+      "exit_code": 0,
+      "passes": 37,
+      "failures": 0,
+      "summary": "REVIEW_RESULT 37 passed, 0 failed"
+    },
+    {
+      "name": "boss_arena_checks",
+      "exit_code": 0,
+      "passes": 28,
+      "failures": 0,
+      "summary": "BOSS_ARENA_RESULT 28 passed, 0 failed"
+    },
+    {
+      "name": "new_issues_checks",
+      "exit_code": 0,
+      "passes": 12,
+      "failures": 0,
+      "summary": "NEW_ISSUES_RESULT 12 passed, 0 failed"
+    },
+    {
+      "name": "double_jump_checks",
+      "exit_code": 0,
+      "passes": 19,
+      "failures": 0,
+      "summary": "DOUBLE_JUMP_RESULT 19 passed, 0 failed"
+    },
+    {
+      "name": "shore_slice_checks",
+      "exit_code": 0,
+      "passes": 32,
+      "failures": 0,
+      "summary": "SHORE_SLICE_RESULT 32 passed, 0 failed"
+    },
+    {
+      "name": "shore_route_checks",
+      "exit_code": 0,
+      "passes": 16,
+      "failures": 0,
+      "summary": "SHORE_ROUTE_RESULT 16 passed, 0 failed"
+    },
+    {
+      "name": "shore_encounters_checks",
+      "exit_code": 0,
+      "passes": 14,
+      "failures": 0,
+      "summary": "SHORE_ENCOUNTERS_RESULT 14 passed, 0 failed"
+    },
+    {
+      "name": "wall_contact_checks",
+      "exit_code": 0,
+      "passes": 4,
+      "failures": 0,
+      "summary": "WALL_CONTACT_RESULT 4 passed, 0 failed"
+    },
+    {
+      "name": "ground_ai_checks",
+      "exit_code": 0,
+      "passes": 5,
+      "failures": 0,
+      "summary": "GROUND_AI_RESULT 5 passed, 0 failed"
+    },
+    {
+      "name": "moth_checks",
+      "exit_code": 0,
+      "passes": 7,
+      "failures": 0,
+      "summary": "MOTH_RESULT 0 failed"
+    },
+    {
+      "name": "contact_recoil_checks",
+      "exit_code": 0,
+      "passes": 15,
+      "failures": 0,
+      "summary": "CONTACT_RECOIL_RESULT 15 passed, 0 failed"
+    },
+    {
+      "name": "relaunch_write",
+      "exit_code": 0,
+      "passes": 1,
+      "failures": 0,
+      "summary": ""
+    },
+    {
+      "name": "relaunch_read",
+      "exit_code": 0,
+      "passes": 1,
+      "failures": 0,
+      "summary": ""
+    },
+    {
+      "name": "relaunch_damage_write",
+      "exit_code": 0,
+      "passes": 1,
+      "failures": 0,
+      "summary": ""
+    },
+    {
+      "name": "relaunch_damage_read",
+      "exit_code": 0,
+      "passes": 1,
+      "failures": 0,
+      "summary": ""
+    },
+    {
+      "name": "visual_checks",
+      "exit_code": 0,
+      "passes": 8,
+      "failures": 0,
+      "summary": "VISUAL_RESULT 0 failed; screenshots: /home/chaos/.hermes/cache/scratch/vesperdeep-phase4-visual"
+    },
+    {
+      "name": "project_boot",
+      "exit_code": 0,
+      "passes": 0,
+      "failures": 0,
+      "summary": ""
+    },
+    {
+      "name": "linux_export_boot",
+      "exit_code": 0,
+      "passes": 0,
+      "failures": 0,
+      "summary": ""
+    },
+    {
+      "name": "linux_export_graphical",
+      "exit_code": 0,
+      "passes": 0,
+      "failures": 0,
+      "summary": ""
+    }
+  ]
+}

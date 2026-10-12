@@ -1,0 +1,32 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+VESPERDEEP_PHASE4_READY
+PASS M4 Warden spawns centrally over solid floor
+PASS Warden waits for player arena trigger
+PASS M4 approach activates Warden AI
+PASS distant Warden closes space before telegraph rather than standing still
+PASS far target gets marked drop instead of out-of-range sweep
+PASS drop marker commits before impact and allows a dodge
+PASS walking clear of the marked drop avoids damage through its active window
+PASS half-health Warden reduces idle reset without skipping recovery
+PASS later Warden breaks a repeated close-range punish with a warned shove
+PASS committed shove reaches most of its advertised 170-pixel tell
+PASS Warden charge cannot fall through M4 combat floor
+PASS Warden remains in reachable arena and AI continues
+PASS M4 arena is flat; dash gap lies beyond the locked exit
+PASS right arena wall stops Warden shove before dash gap
+PASS left arena wall stops Warden shove
+PASS Warden knockback settles instead of drifting to a rear wall
+PASS offscreen boss position cannot trigger victory or rewards
+PASS failed M4 encounter respawns at M2 without awarding victory
+PASS retry recreates full-health Warden and safe combat floor
+PASS ten actual directional slashes defeat Warden
+PASS Warden victory atomically grants Echo Step and opens approved route
+PASS Warden defeat preserves arena floor and pre-existing exit gap
+PASS post-Warden narrative pauses play until read
+PASS actual jump and Echo Step cross exit gap to C1 shrine
+PASS victory remains durable and floor intact across M4 reload
+PASS C3 Cantor remains grounded and progresses through attacks
+PASS C3 Cantor knockback settles on its continuous floor
+PASS C3 environmental displacement cannot grant Sigil or double jump
+BOSS_ARENA_RESULT 28 passed, 0 failed

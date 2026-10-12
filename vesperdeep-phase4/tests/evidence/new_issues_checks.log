@@ -1,0 +1,16 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+VESPERDEEP_PHASE4_READY
+PASS C1 blue shrine is visibly labeled with interaction
+PASS G1 retains approved Moth placement
+PASS G1 Moth hover height allows ground up-slash during dive
+PASS G1 Moth dive enters actual upward-slash hitbox
+PASS G1 Moth can be defeated on a second natural dive
+PASS G2 retains approved Moth placement
+PASS G2 Moth hover height allows ground up-slash during dive
+PASS G2 Moth dive enters actual upward-slash hitbox
+PASS G2 Moth can be defeated on a second natural dive
+PASS G2 Moth hover height allows ground up-slash during dive
+PASS G2 Moth dive enters actual upward-slash hitbox
+PASS G2 Moth can be defeated on a second natural dive
+NEW_ISSUES_RESULT 12 passed, 0 failed

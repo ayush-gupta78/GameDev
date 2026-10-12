@@ -1,0 +1,11 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+VESPERDEEP_PHASE4_READY
+PASS Moth recovery passes contact rather than sticking beneath player
+PASS full committed dive path is visible during warning
+PASS Committed dive actually reaches a warned target
+PASS Committed dive deals one contact hit without physical sticking
+PASS Moth finishes recovery at its hover point before re-engaging
+PASS Both Moths get attack turns
+PASS Moths stagger warning and dive windows
+MOTH_RESULT 0 failed

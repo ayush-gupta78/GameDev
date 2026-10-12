@@ -1,0 +1,9 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+VESPERDEEP_PHASE4_READY
+PASS Drudge turns and pursues a nearby player before attacking
+PASS Drudge does not waste a strike outside melee range
+PASS Both Drudges eventually attack instead of idling
+PASS Drudge pair staggers telegraphs and active attacks
+PASS Drudges cannot be kited into shrine or NPC safe patches
+GROUND_AI_RESULT 5 passed, 0 failed

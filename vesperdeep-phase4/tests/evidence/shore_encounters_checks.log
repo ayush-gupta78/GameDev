@@ -1,0 +1,18 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+VESPERDEEP_PHASE4_READY
+PASS M1 authored density
+PASS M1 existing archetypes and escalating combination
+PASS M1 first enemy after safe movement introduction
+PASS M1 harmless target remains
+PASS M2 authored density
+PASS M2 existing archetypes and escalating combination
+PASS M2 shrine and NPC patch remain clear
+PASS M3 authored density
+PASS M3 existing archetypes and escalating combination
+PASS M3 side climb and latch have clear approach
+PASS M4 authored density
+PASS M4 existing archetypes and escalating combination
+PASS M4 warm-up stays outside inactive boss arena
+PASS engaging Warden clears the pre-arena Drudge without a double threat
+SHORE_ENCOUNTERS_RESULT 14 passed, 0 failed

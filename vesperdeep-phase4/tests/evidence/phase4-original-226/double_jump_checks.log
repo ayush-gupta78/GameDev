@@ -1,0 +1,23 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+VESPERDEEP_PHASE4_READY
+PASS fresh game cannot double jump
+PASS pre-C3 second press cannot activate locked ability
+PASS Cantor grants double jump atomically with Sigil
+PASS HUD explains unlocked second jump
+PASS ground jump works and holding does not automatically chain
+PASS second distinct airborne press launches upward
+PASS horizontal steering remains active after double jump
+PASS third airborne press cannot jump again
+PASS player lands without clipping through floor
+PASS landing restores the second jump
+PASS walking off a ledge permits one airborne jump
+PASS double jump under M3 platform cannot clip through ceiling
+PASS wall jump restores double jump availability
+PASS double jump after wall jump plays temporary wing effect
+PASS Echo Step follows double jump without restoring another jump
+PASS pogo bounce does not create repeated midair jumps
+PASS double jump uses the existing controller Jump action
+PASS double-jump unlock survives save/load
+PASS v1 Cantor saves migrate without losing unlocked ability
+DOUBLE_JUMP_RESULT 19 passed, 0 failed

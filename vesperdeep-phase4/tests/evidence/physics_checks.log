@@ -1,0 +1,21 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+VESPERDEEP_PHASE4_READY
+PASS ground acceleration and max speed
+PASS ground deceleration
+PASS early jump release shortens arc
+PASS jump buffer fires on imminent landing
+PASS coyote jump after recent ledge departure
+PASS Focus not complete before 1.1 s
+PASS Focus completes after 1.1 s at 60 Hz
+PASS movement interrupts real-time Focus without spending charge
+PASS camera bounded to test room
+PASS C2 two approved archetypes coexist
+PASS Needle projectile has a visible body
+PASS G2 two Glass Moths coexist
+PASS Moth committed dive does not reverse after passing target
+PASS two Moths detect and take staggered attack turns
+PASS downward slash inflicts one hit and pogo impulse
+PASS upward slash reaches overhead enemy
+PASS Drudge engages and completes a warned attack
+PHYSICS_RESULT 17 passed, 0 failed

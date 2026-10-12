@@ -1,0 +1,13 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 4.6 (Core Profile) Mesa 26.2.4 - Compatibility - Using Device: Mesa - zink Vulkan 1.4(NVIDIA GeForce RTX 4060 Laptop GPU (NVK AD107) (MESA_NVK))
+
+VESPERDEEP_PHASE4_READY
+PASS M1 player visually in front of room (681 pixels)
+PASS M3 interactive latch visible before opening (1022 pixels)
+PASS Needle projectile renders on camera (120 pixels)
+PASS C1 blue checkpoint renders beside shrine label (1911 pixels)
+PASS M4 arena boundary visibly separates boss deck from dash gap (18271 pixels)
+PASS M4 post-victory graphical frame captured
+PASS double-jump wing effect renders in gameplay (73 pixels)
+PASS G2 dialogue graphical frame captured
+VISUAL_RESULT 0 failed; screenshots: /home/chaos/.hermes/cache/scratch/vesperdeep-phase4-visual
